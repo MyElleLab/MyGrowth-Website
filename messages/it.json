@@ -1,0 +1,358 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "MyGrowth, le statistiche della tua vita",
+      "description": "Raccogli le statistiche della tua vita e osserva la tua crescita. MyGrowth trasforma la tua costanza quotidiana in dati visibili. Completamente privato: tutti i dati restano sul tuo dispositivo.",
+      "ogDescription": "Trasforma la tua costanza quotidiana in dati visibili e guardati crescere nel tempo. 100% privato."
+    },
+    "tutorial": {
+      "title": "Importa i tuoi dati, MyGrowth",
+      "description": "Importa i dati storici delle abitudini, esegui backup e ripristino dell'app ed esplora le abitudini predefinite in MyGrowth."
+    },
+    "privacy": {
+      "title": "Informativa sulla privacy, MyGrowth",
+      "description": "MyGrowth non raccoglie alcun dato. Tutto resta sul tuo dispositivo. Leggi l'informativa sulla privacy completa."
+    },
+    "terms": {
+      "title": "Termini di utilizzo, MyGrowth",
+      "description": "Termini di utilizzo dell'app iOS MyGrowth."
+    },
+    "support": {
+      "title": "Supporto, MyGrowth",
+      "description": "Ottieni aiuto con MyGrowth. FAQ, contatti e altro."
+    }
+  },
+  "Common": {
+    "backHome": "Torna alla home",
+    "iconAlt": "Icona MyGrowth"
+  },
+  "Nav": {
+    "tutorial": "Tutorial",
+    "privacy": "Privacy",
+    "support": "Supporto",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu"
+  },
+  "Hero": {
+    "headlineLine1": "Raccogli le statistiche della tua vita.",
+    "headlineLine2": "Guardati crescere.",
+    "sub1": "MyGrowth trasforma la tua costanza quotidiana in dati visibili,\ncosì puoi guardarti diventare, giorno dopo giorno, la persona che vuoi essere.",
+    "sub2": "Solo i tuoi dati, sul tuo dispositivo.",
+    "sub3": "Disponibile in oltre 25 lingue.",
+    "ctaDownload": "Scarica sull'App Store",
+    "ctaDownloadAria": "Scarica MyGrowth sull'App Store",
+    "ctaSupport": "Inizia oggi. Tra un anno sarai felice di averlo fatto.",
+    "seeFeatures": "Scopri le funzioni",
+    "heatmapCaption": "Il tuo anno, in un colpo d'occhio."
+  },
+  "Stats": {
+    "suggestedHabits": "abitudini suggerite",
+    "colors": "colori",
+    "languages": "lingue",
+    "private": "privato"
+  },
+  "Features": {
+    "title": "Tutto ciò che serve. Niente di superfluo.",
+    "subtitle": "Potente per gli amanti dei dati. Semplice per l'uso quotidiano.",
+    "heatmap": {
+      "title": "Heatmap dei contributi",
+      "description": "Un anno di impegno trasformato in un'unica immagine sincera. Ogni abitudine ha la sua griglia a colori, così individui schemi, lacune e serie in un colpo d'occhio."
+    },
+    "streaks": {
+      "title": "Serie intelligenti",
+      "description": "Serie che capiscono il tuo programma, così un giorno di riposo pianificato non le interrompe mai. Palestra lun/mer/ven? Tre sessioni, serie di tre giorni."
+    },
+    "reminders": {
+      "title": "Promemoria giornalieri",
+      "description": "Panoramica mattutina delle abitudini di oggi. Spinta serale per registrare prima di dormire. Messaggi motivazionali che cambiano ogni giorno."
+    },
+    "pace": {
+      "title": "Monitora ritmo e velocità",
+      "description": "Registra distanza + tempo per corsa e bici. Calcola in automatico il ritmo (min/km) o la velocità (km/h) in tempo reale."
+    },
+    "charts": {
+      "title": "Statistiche per abitudine",
+      "description": "Costanza, medie, totali e giorni migliori. Scorri tutta la tua cronologia con valori giornalieri, medie a 7 giorni e linee obiettivo."
+    },
+    "private": {
+      "title": "100% privato",
+      "description": "Nessun account. Nessun cloud. Nessun tracciamento. Tutti i dati restano sul tuo iPhone. Non possiamo letteralmente vedere i tuoi dati."
+    },
+    "languages": {
+      "title": "Oltre 25 lingue",
+      "description": "Dall'inglese al giapponese, dall'arabo all'albanese. Monitora le tue abitudini nella tua lingua, con le icone delle bandiere."
+    },
+    "customizable": {
+      "title": "Monitoraggio flessibile",
+      "description": "Monitora ogni giorno, in giorni specifici o semplicemente quando vuoi. Colori infiniti, oltre 30 icone emoji, unità personalizzate e obiettivi giornalieri. Rendi ogni abitudine tua."
+    }
+  },
+  "Languages": {
+    "heading": "Disponibile in tutto il mondo, nella tua lingua"
+  },
+  "HowItWorks": {
+    "title": "Come funziona",
+    "subtitle": "Tre passaggi. Nessuna configurazione oltre il primo minuto.",
+    "step1": {
+      "title": "Registra in pochi secondi",
+      "description": "Tocca un'abitudine, inserisci il valore, fatto. Registra distanza + tempo per corsa e bici, il ritmo si calcola da solo."
+    },
+    "step2": {
+      "title": "Osserva i tuoi schemi",
+      "description": "La tua heatmap mostra tutto il tuo anno in un colpo d'occhio. Tutte le abitudini impilate in verticale, così individui costanza e lacune all'istante."
+    },
+    "step3": {
+      "title": "Guardati crescere",
+      "description": "Scorri i grafici per vedere i tuoi progressi accumularsi nel tempo. Le serie intelligenti rispettano il tuo programma e contano solo quando raggiungi gli obiettivi."
+    }
+  },
+  "AppPreview": {
+    "title": "Diventi ciò che fai ripetutamente. MyGrowth lo rende visibile.",
+    "subtitle": "Pulito, essenziale, senza fronzoli. Ogni pixel si guadagna il suo posto.",
+    "promoAlt": "MyGrowth su iPhone"
+  },
+  "Footer": {
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di utilizzo",
+    "tutorial": "Tutorial",
+    "support": "Supporto",
+    "copyright": "© {year} MyGrowth"
+  },
+  "Support": {
+    "title": "Supporto",
+    "intro": "Risposte alle domande più comuni. Se non trovi ciò che cerchi, scrivici una email.",
+    "faqHeading": "Domande frequenti",
+    "contactTitle": "Hai ancora bisogno di aiuto?",
+    "contactBody": "Hai una domanda, hai trovato un bug o vuoi condividere un feedback? Leggiamo ogni email.",
+    "emailCta": "Scrivi a support@myhabitstats.com",
+    "reviewText": "Puoi anche <link>lasciare una recensione sull'App Store</link>. Aiuta più di quanto pensi."
+  },
+  "Faq": {
+    "q1": {
+      "question": "Come registro un'abitudine?",
+      "answer": "Apri l'app e tocca una qualsiasi scheda abitudine nella schermata principale. Appare un foglio di inserimento rapido: digita il tuo valore (ad es. 7,5 ore di sonno, 2,5 L di acqua) e tocca Salva. Il dato viene registrato all'istante e la cella della heatmap si aggiorna."
+    },
+    "q2": {
+      "question": "Come importo i dati da un foglio di calcolo?",
+      "answer": "Vai su Impostazioni → Gestione dati → Importa CSV. Il formato previsto è di due colonne: data (YYYY-MM-DD) e valore. Esporta il tuo foglio di calcolo come CSV, salvalo in File e selezionalo nella finestra di importazione. I dati storici riempiono la heatmap in modo retroattivo."
+    },
+    "q3": {
+      "question": "Dove vengono salvati i miei dati?",
+      "answer": "Tutti i dati sono salvati localmente sul tuo iPhone tramite l'archiviazione locale di iOS (UserDefaults). Niente lascia il tuo dispositivo: nessun server, nessuna sincronizzazione cloud, nessun account. Consulta la nostra Informativa sulla privacy per tutti i dettagli.",
+      "linkText": "Informativa sulla privacy"
+    },
+    "q4": {
+      "question": "Posso esportare i miei dati?",
+      "answer": "Sì. Vai su Impostazioni → Gestione dati → Esporta. Puoi esportare in JSON (fedeltà completa, reimportabile) o CSV (compatibile con Excel, Numbers, Google Sheets). Il file esportato viene salvato nell'app File."
+    },
+    "q5": {
+      "question": "Come elimino tutti i miei dati?",
+      "answer": "Vai su Impostazioni → Gestione dati → Cancella tutti i dati. Vedrai una richiesta di conferma. Questa azione è permanente e irreversibile: elimina tutte le abitudini, i registri e le preferenze dal tuo dispositivo."
+    },
+    "q6": {
+      "question": "Ci sarà una versione Android?",
+      "answer": "Per ora siamo concentrati su iOS. Meglio fare bene una piattaforma che male due. Resta sintonizzato."
+    }
+  },
+  "Tutorial": {
+    "title": "Importa i tuoi dati",
+    "intro": "Monitori già le tue abitudini? Importa la tua cronologia in pochi minuti.",
+    "importLogs": {
+      "title": "Importa i registri giornalieri",
+      "intro": "Importa i dati storici delle tue abitudini da un file CSV. Ogni riga rappresenta la voce di un giorno.",
+      "templateLabel": "Formato del modello",
+      "colDateDesc": "Formato YYYY-MM-DD (obbligatorio). Esempio: 2026-03-15",
+      "colHabitDesc": "Deve corrispondere al nome di un'abitudine esistente nell'app (non distingue maiuscole e minuscole).",
+      "colUnitDesc": "L'unità dell'abitudine, per tuo riferimento. Esempi: ore, minuti, km",
+      "colValueDesc": "Numerico, deve essere 0 o superiore.",
+      "colNoteDesc": "Testo libero facoltativo. Lascia vuoto o ometti del tutto.",
+      "requiredBadge": "obbligatorio",
+      "downloadCsv": "Scarica il modello (CSV)",
+      "tips": [
+        "Puoi usare Excel, Google Sheets o Numbers, basta esportare in .csv o .txt.",
+        "I nomi delle abitudini devono corrispondere esattamente: 'Workout' e 'workout' funzionano entrambi, ma 'Work out' non corrisponde a 'Workout'.",
+        "Se una combinazione data + abitudine esiste già, l'importazione aggiorna il valore esistente invece di duplicarlo.",
+        "Puoi combinare più abitudini in un unico file."
+      ]
+    },
+    "backup": {
+      "title": "Backup e ripristino",
+      "intro": "Esporta tutti i dati dell'app, abitudini e registri, in un unico file CSV. Usalo per ripristinare su un nuovo dispositivo o per tenere un backup offline.",
+      "exportTitle": "Come esportare",
+      "exportSteps": [
+        "Vai su Impostazioni → Gestione dati",
+        "Tocca \"Esporta backup\"",
+        "Salva o condividi il file"
+      ],
+      "restoreTitle": "Come ripristinare",
+      "restoreSteps": [
+        "Vai su Impostazioni → Gestione dati",
+        "Tocca \"Importa dati\"",
+        "Seleziona il tuo file di backup",
+        "Scegli \"Unisci agli esistenti\" o \"Sostituisci tutti i dati\"",
+        "Controlla il riepilogo e tocca Importa"
+      ],
+      "formatLabel": "Formato del backup (semplificato)",
+      "autoDetect": "L'app rileva automaticamente se stai importando un backup (con la sezione <code>#HABITS</code>) o solo voci di registro. Un unico pulsante di importazione gestisce entrambi."
+    },
+    "prebuilt": {
+      "title": "Abitudini predefinite",
+      "intro": "L'app include 9 abitudini predefinite pronte da monitorare:",
+      "colHabit": "Abitudine",
+      "colUnit": "Unità",
+      "colTarget": "Obiettivo giornaliero",
+      "note": "Puoi anche creare abitudini personalizzate illimitate con nome, unità, icona, colore e programma a tua scelta."
+    },
+    "reminders": {
+      "title": "Promemoria giornalieri",
+      "intro": "MyGrowth può inviarti due notifiche al giorno:",
+      "morning": "<b>Promemoria mattutino</b>: un riepilogo delle abitudini in programma per la giornata. Predefinito: 9:00.",
+      "evening": "<b>Spinta serale</b>: un promemoria gentile per registrare le abitudini che hai saltato. Predefinito: 21:00.",
+      "footer": "Entrambi sono personalizzabili in Impostazioni → Notifiche. I messaggi cambiano ogni giorno con testi motivazionali."
+    },
+    "pace": {
+      "title": "Monitora ritmo e velocità",
+      "intro": "Per abitudini come Corsa e Bici, attiva \"Monitora tempo\" nelle impostazioni dell'abitudine per registrare sia la distanza sia il tempo. L'app calcola automaticamente:",
+      "running": "<b>Corsa</b> → Ritmo (min/km), ad es. 7 km in 38 min = 5:25 min/km",
+      "biking": "<b>Bici</b> → Velocità (km/h), ad es. 10 km in 30 min = 20,0 km/h",
+      "footer": "Nella scheda Grafici, passa tra le viste Distanza, Ritmo/Velocità o Entrambe."
+    },
+    "streaks": {
+      "title": "Come funzionano le serie",
+      "tips": [
+        "Registrare un valore di 0 non conta: devi davvero svolgere l'abitudine.",
+        "Il tuo valore deve raggiungere l'obiettivo: 2 ore di sonno (obiettivo: 8) non contano.",
+        "Le serie rispettano il tuo programma: se ti alleni lun/mer/ven e li completi tutti e tre, è una serie di 3 giorni. Martedì e giovedì non la interrompono."
+      ]
+    },
+    "cta": {
+      "title": "Pronto a importare?",
+      "download": "Scarica il modello"
+    }
+  },
+  "Privacy": {
+    "title": "Informativa sulla privacy",
+    "lastUpdated": "Ultimo aggiornamento: 3 aprile 2026",
+    "intro": "MyGrowth (\"l'App\") è impegnata a proteggere la tua privacy. Questa informativa spiega come gestiamo i tuoi dati.",
+    "short": {
+      "title": "In breve",
+      "body": "Non raccogliamo alcun dato. Tutto resta sul tuo dispositivo."
+    },
+    "stored": {
+      "title": "Quali dati vengono salvati",
+      "intro": "L'App salva i seguenti dati localmente sul tuo iPhone:",
+      "items": [
+        "Configurazioni delle abitudini (nomi, unità, obiettivi, colori)",
+        "Voci di registro giornaliere (data, valore, note facoltative)",
+        "Preferenze dell'app (tema, stato dell'onboarding, registri di consenso)"
+      ],
+      "footer": "Questi dati sono salvati tramite l'archiviazione locale di iOS (UserDefaults). Non lasciano mai il tuo dispositivo."
+    },
+    "notCollect": {
+      "title": "Cosa non raccogliamo",
+      "items": [
+        "Nessuna informazione personale (nome, email, telefono, posizione)",
+        "Nessuna statistica d'uso o segnalazione di arresto anomalo",
+        "Nessun identificatore pubblicitario",
+        "Nessun cookie o pixel di tracciamento",
+        "Nessun dato viene trasmesso ad alcun server"
+      ]
+    },
+    "thirdParty": {
+      "title": "Servizi di terze parti",
+      "body": "Nessuno. L'App non contiene SDK di terze parti, strumenti di analisi, reti pubblicitarie o servizi cloud."
+    },
+    "rights": {
+      "title": "I tuoi diritti (GDPR)",
+      "intro": "Ai sensi del Regolamento generale sulla protezione dei dati, hai il diritto di:",
+      "access": "<b>Accedere</b> ai tuoi dati: visibili direttamente nell'app in qualsiasi momento",
+      "export": "<b>Esportare</b> i tuoi dati: tramite Impostazioni → Gestione dati → Esporta (JSON o CSV)",
+      "delete": "<b>Eliminare</b> i tuoi dati: tramite Impostazioni → Gestione dati → Cancella tutti i dati",
+      "rectify": "<b>Rettificare</b> i tuoi dati: modifica qualsiasi voce toccandola nell'app",
+      "footer": "Poiché tutti i dati sono salvati esclusivamente sul tuo dispositivo, per esercitare questi diritti non serve alcuna richiesta a noi: hai il pieno controllo."
+    },
+    "retention": {
+      "title": "Conservazione dei dati",
+      "body": "I tuoi dati restano sul dispositivo finché non li elimini nell'app o disinstalli l'app. La disinstallazione rimuove definitivamente tutti i dati."
+    },
+    "children": {
+      "title": "Privacy dei minori",
+      "body": "L'App non raccoglie consapevolmente dati da minori di 16 anni. Poiché non viene raccolta alcuna informazione personale da nessun utente, l'App è conforme ai requisiti di età di COPPA e GDPR."
+    },
+    "changes": {
+      "title": "Modifiche a questa informativa",
+      "body": "Se aggiorniamo questa informativa, pubblicheremo la versione rivista su questa pagina con una data aggiornata."
+    },
+    "contact": {
+      "title": "Contatti",
+      "body": "Per domande o dubbi sulla privacy:"
+    }
+  },
+  "Terms": {
+    "title": "Termini di utilizzo",
+    "lastUpdated": "Ultimo aggiornamento: 3 aprile 2026",
+    "intro": "Benvenuto in MyGrowth (\"l'App\"). Scaricando o utilizzando l'App, accetti questi termini.",
+    "acceptance": {
+      "title": "Accettazione dei termini",
+      "body": "Accedendo o utilizzando MyGrowth, accetti di essere vincolato da questi Termini di utilizzo. Se non sei d'accordo, non utilizzare l'App."
+    },
+    "description": {
+      "title": "Descrizione del servizio",
+      "body": "MyGrowth è un'applicazione personale per il monitoraggio delle abitudini per iOS. Ti consente di registrare le attività quotidiane, visualizzare i tuoi progressi tramite griglie heatmap e grafici e gestire i tuoi dati personali, tutti salvati localmente sul tuo dispositivo."
+    },
+    "responsibilities": {
+      "title": "Responsabilità dell'utente",
+      "items": [
+        "Sei responsabile di tutti i dati che inserisci nell'App",
+        "Sei responsabile del mantenimento dei backup dei tuoi dati tramite la funzione di esportazione",
+        "Non devi utilizzare l'App per scopi illeciti",
+        "Non devi tentare di decodificare, decompilare o manomettere l'App"
+      ]
+    },
+    "dataPrivacy": {
+      "title": "Dati e privacy",
+      "item1": "Tutti i dati sono salvati localmente sul tuo dispositivo",
+      "item2": "Non raccogliamo, trasmettiamo né abbiamo accesso ad alcuno dei tuoi dati",
+      "item3": "Per tutti i dettagli, consulta la nostra <link>Informativa sulla privacy</link>"
+    },
+    "ip": {
+      "title": "Proprietà intellettuale",
+      "body": "MyGrowth, inclusi il suo design, il codice e le risorse visive, è proprietà intellettuale del suo sviluppatore. Ti viene concessa una licenza limitata, non esclusiva e non trasferibile per utilizzare l'App per scopi personali e non commerciali."
+    },
+    "iap": {
+      "title": "Acquisti in-app",
+      "body": "L'App può offrire funzioni premium facoltative tramite acquisti in-app. Tutti gli acquisti sono gestiti da Apple tramite l'App Store e sono soggetti ai termini e alle condizioni di Apple. I rimborsi sono gestiti da Apple secondo la sua politica di rimborso."
+    },
+    "warranties": {
+      "title": "Esclusione di garanzie",
+      "body": "L'App è fornita \"così com'è\", senza garanzie di alcun tipo, esplicite o implicite. Non garantiamo che l'App sia priva di errori, ininterrotta o priva di componenti dannosi."
+    },
+    "liability": {
+      "title": "Limitazione di responsabilità",
+      "body": "Nella misura massima consentita dalla legge, lo sviluppatore non sarà responsabile di alcun danno indiretto, incidentale, speciale o consequenziale derivante dall'uso dell'App, inclusa, a titolo esemplificativo, la perdita di dati."
+    },
+    "dataLoss": {
+      "title": "Perdita di dati",
+      "body": "Poiché tutti i dati sono salvati localmente sul tuo dispositivo, non siamo responsabili della perdita di dati dovuta a guasti del dispositivo, aggiornamenti di iOS, eliminazione dell'app o qualsiasi altra causa. Ti consigliamo di esportare regolarmente i tuoi dati con la funzione di esportazione integrata."
+    },
+    "modifications": {
+      "title": "Modifiche",
+      "body": "Ci riserviamo il diritto di aggiornare questi Termini in qualsiasi momento. L'uso continuato dell'App dopo le modifiche costituisce accettazione dei nuovi Termini. L'ultima versione sarà sempre disponibile in questa pagina."
+    },
+    "termination": {
+      "title": "Risoluzione",
+      "body": "Possiamo terminare o sospendere il tuo accesso all'App in qualsiasi momento, senza preavviso, per comportamenti che riteniamo violino questi Termini o siano dannosi per altri utenti o per l'App."
+    },
+    "governingLaw": {
+      "title": "Legge applicabile",
+      "body": "Questi Termini sono regolati dalle leggi della Danimarca, senza riguardo ai principi sui conflitti di legge."
+    },
+    "contact": {
+      "title": "Contatti",
+      "body": "Per domande su questi Termini:"
+    }
+  },
+  "Picker": {
+    "label": "Cambia lingua"
+  }
+}

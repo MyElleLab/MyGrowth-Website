@@ -1,0 +1,358 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "MyGrowth, the statistics of your life",
+      "description": "Collect the statistics of your life and watch yourself grow. MyGrowth turns your daily consistency into visible data. Fully private, all data stays on your device.",
+      "ogDescription": "Turn your daily consistency into visible data and watch yourself compound. 100% private."
+    },
+    "tutorial": {
+      "title": "Import Your Data, MyGrowth",
+      "description": "Import historical habit data, backup and restore your app, and explore default habits in MyGrowth."
+    },
+    "privacy": {
+      "title": "Privacy Policy, MyGrowth",
+      "description": "MyGrowth collects no data. Everything stays on your device. Read our full privacy policy."
+    },
+    "terms": {
+      "title": "Terms of Use, MyGrowth",
+      "description": "Terms of Use for the MyGrowth iOS app."
+    },
+    "support": {
+      "title": "Support, MyGrowth",
+      "description": "Get help with MyGrowth. FAQ, contact, and more."
+    }
+  },
+  "Common": {
+    "backHome": "Back to Home",
+    "iconAlt": "MyGrowth icon"
+  },
+  "Nav": {
+    "tutorial": "Tutorial",
+    "privacy": "Privacy",
+    "support": "Support",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "Hero": {
+    "headlineLine1": "Collect the statistics of your life.",
+    "headlineLine2": "Watch yourself grow.",
+    "sub1": "MyGrowth turns your daily consistency into visible data,\nso you can watch yourself compound into the person you want to become.",
+    "sub2": "Just your data, on your device.",
+    "sub3": "Available in 25+ languages.",
+    "ctaDownload": "Download on the App Store",
+    "ctaDownloadAria": "Download MyGrowth on the App Store",
+    "ctaSupport": "Start today. A year from now you will be glad you did.",
+    "seeFeatures": "See features",
+    "heatmapCaption": "Your year, at a glance."
+  },
+  "Stats": {
+    "suggestedHabits": "suggested habits",
+    "colors": "colors",
+    "languages": "languages",
+    "private": "private"
+  },
+  "Features": {
+    "title": "Everything you need. Nothing you don't.",
+    "subtitle": "Powerful enough for data nerds. Simple enough for everyday use.",
+    "heatmap": {
+      "title": "Contribution Heatmap",
+      "description": "A year of effort turned into one honest picture. Every habit gets its own color-coded grid, so you spot patterns, gaps, and streaks at a glance."
+    },
+    "streaks": {
+      "title": "Smart Streaks",
+      "description": "Streaks that understand your schedule, so a planned rest day never breaks them. Gym Monday, Wednesday, Friday? Three sessions, three-day streak."
+    },
+    "reminders": {
+      "title": "Daily Reminders",
+      "description": "A morning overview of today's habits and an evening nudge to log before bed. Motivational messages that rotate daily."
+    },
+    "pace": {
+      "title": "Track Pace & Speed",
+      "description": "Log distance and time for running and biking. Auto-calculate pace (min/km) or speed (km/h) in real time."
+    },
+    "charts": {
+      "title": "Per-Habit Statistics",
+      "description": "Consistency, averages, totals, and best days. Swipe through your full history with daily values, 7-day averages, and goal lines."
+    },
+    "private": {
+      "title": "100% Private",
+      "description": "No accounts. No cloud. No tracking. All data stays on your iPhone. We literally cannot see your data."
+    },
+    "languages": {
+      "title": "25+ Languages",
+      "description": "From English to Japanese, Arabic to Albanian. Track your habits in your language, with flag icons."
+    },
+    "customizable": {
+      "title": "Flexible Tracking",
+      "description": "Track daily, on specific days, or simply whenever. Infinite colors, 30+ emoji icons, custom units, and daily targets. Make each habit yours."
+    }
+  },
+  "Languages": {
+    "heading": "Available worldwide, in your language"
+  },
+  "HowItWorks": {
+    "title": "How it works",
+    "subtitle": "Three steps. No setup required beyond the first minute.",
+    "step1": {
+      "title": "Log in seconds",
+      "description": "Tap a habit, enter your value, done. Track distance and time for running and biking, and pace calculates automatically."
+    },
+    "step2": {
+      "title": "See your patterns",
+      "description": "Your heatmap grid shows your entire year at a glance. All habits stacked vertically, so you spot consistency and gaps instantly."
+    },
+    "step3": {
+      "title": "Watch yourself grow",
+      "description": "Swipe through scrollable charts to see your progress compound over time. Smart streaks respect your schedule and only count when you hit your goals."
+    }
+  },
+  "AppPreview": {
+    "title": "You become what you repeatedly do. MyGrowth makes that visible.",
+    "subtitle": "Clean, focused, no-nonsense. Every pixel earns its place.",
+    "promoAlt": "MyGrowth on iPhone"
+  },
+  "Footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "tutorial": "Tutorial",
+    "support": "Support",
+    "copyright": "© {year} MyGrowth"
+  },
+  "Support": {
+    "title": "Support",
+    "intro": "Answers to common questions. If you can't find what you need, email us.",
+    "faqHeading": "Frequently asked questions",
+    "contactTitle": "Still need help?",
+    "contactBody": "Have a question, found a bug, or want to share feedback? We read every email.",
+    "emailCta": "Email support@myhabitstats.com",
+    "reviewText": "You can also <link>leave a review on the App Store</link>, it helps more than you know."
+  },
+  "Faq": {
+    "q1": {
+      "question": "How do I log a habit?",
+      "answer": "Open the app and tap any habit card on the home screen. A quick-entry sheet appears, type your value (e.g. 7.5 hours of sleep, 2.5L of water) and tap Save. The entry is recorded instantly and your heatmap cell updates."
+    },
+    "q2": {
+      "question": "How do I import data from a spreadsheet?",
+      "answer": "Go to Settings, Data Management, Import CSV. The expected format is two columns: date (YYYY-MM-DD) and value. Export your spreadsheet as CSV, save it to Files, and select it in the import picker. Historical data fills in your heatmap retroactively."
+    },
+    "q3": {
+      "question": "Where is my data stored?",
+      "answer": "All data is stored locally on your iPhone using iOS on-device storage (UserDefaults). Nothing leaves your device, there are no servers, no cloud sync, no accounts. See our Privacy Policy for full details.",
+      "linkText": "Privacy Policy"
+    },
+    "q4": {
+      "question": "Can I export my data?",
+      "answer": "Yes. Go to Settings, Data Management, Export. You can export as JSON (full fidelity, re-importable) or CSV (compatible with Excel, Numbers, Google Sheets). The export file is saved to your Files app."
+    },
+    "q5": {
+      "question": "How do I delete all my data?",
+      "answer": "Go to Settings, Data Management, Clear All Data. You'll see a confirmation prompt. This action is permanent and irreversible, it wipes all habits, logs, and preferences from your device."
+    },
+    "q6": {
+      "question": "Will there be an Android version?",
+      "answer": "We're focused on iOS for now. Building one platform well beats two platforms poorly. Stay tuned."
+    }
+  },
+  "Tutorial": {
+    "title": "Import Your Data",
+    "intro": "Already tracking habits? Import your history in minutes.",
+    "importLogs": {
+      "title": "Import Daily Logs",
+      "intro": "Import historical data for your habits from a CSV file. Each row represents one day's entry.",
+      "templateLabel": "Template format",
+      "colDateDesc": "YYYY-MM-DD format (required). Example: 2026-03-15",
+      "colHabitDesc": "Must match an existing habit name in the app (case-insensitive).",
+      "colUnitDesc": "The habit's unit, for your reference. Examples: hours, minutes, km",
+      "colValueDesc": "Numeric, must be 0 or greater.",
+      "colNoteDesc": "Optional free text. Leave blank or omit entirely.",
+      "requiredBadge": "required",
+      "downloadCsv": "Download template (CSV)",
+      "tips": [
+        "You can use Excel, Google Sheets, or Numbers, just export as .csv or .txt.",
+        "Habit names must match exactly: 'Workout' and 'workout' both work, but 'Work out' won't match 'Workout'.",
+        "If a date + habit already exists, the import updates the existing value, it does not duplicate it.",
+        "You can mix multiple habits in one file."
+      ]
+    },
+    "backup": {
+      "title": "Backup & Restore",
+      "intro": "Export your entire app data, habits and logs, as a single CSV file. Use it to restore on a new device or keep an offline backup.",
+      "exportTitle": "How to export",
+      "exportSteps": [
+        "Go to Settings, Data Management",
+        "Tap \"Export Backup\"",
+        "Save or share the file"
+      ],
+      "restoreTitle": "How to restore",
+      "restoreSteps": [
+        "Go to Settings, Data Management",
+        "Tap \"Import Data\"",
+        "Select your backup file",
+        "Choose \"Merge with existing\" or \"Replace all data\"",
+        "Review the summary and tap Import"
+      ],
+      "formatLabel": "Backup format (simplified)",
+      "autoDetect": "The app auto-detects whether you're importing a backup (has <code>#HABITS</code> section) or just log entries. One import button handles both."
+    },
+    "prebuilt": {
+      "title": "Pre-built Habits",
+      "intro": "The app comes with 9 default habits ready to track:",
+      "colHabit": "Habit",
+      "colUnit": "Unit",
+      "colTarget": "Daily Target",
+      "note": "You can also create unlimited custom habits with your own name, unit, icon, color, and schedule."
+    },
+    "reminders": {
+      "title": "Daily Reminders",
+      "intro": "MyGrowth can send you two daily notifications:",
+      "morning": "<b>Morning Reminder</b>, a summary of your scheduled habits for the day. Default: 9:00 AM.",
+      "evening": "<b>Evening Nudge</b>, a gentle reminder to log any habits you missed. Default: 9:00 PM.",
+      "footer": "Both are customizable in Settings, Notifications. Messages rotate daily with motivational text."
+    },
+    "pace": {
+      "title": "Track Pace & Speed",
+      "intro": "For habits like Running and Biking, enable \"Track time\" in the habit settings to log both distance and time. The app auto-calculates:",
+      "running": "<b>Running</b> to Pace (min/km), e.g. 7 km in 38 min = 5:25 min/km",
+      "biking": "<b>Biking</b> to Speed (km/h), e.g. 10 km in 30 min = 20.0 km/h",
+      "footer": "In the Charts tab, switch between Distance, Pace/Speed, or Both views."
+    },
+    "streaks": {
+      "title": "How Streaks Work",
+      "tips": [
+        "Logging a value of 0 doesn't count, you must actually do the habit.",
+        "Your value must meet the target, 2 hours of sleep (target: 8) won't count.",
+        "Streaks respect your schedule, if you work out Monday, Wednesday, Friday and hit all three, that's a 3-day streak. Tuesday and Thursday don't break it."
+      ]
+    },
+    "cta": {
+      "title": "Ready to import?",
+      "download": "Download template"
+    }
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 3, 2026",
+    "intro": "MyGrowth (\"the App\") is committed to protecting your privacy. This policy explains how we handle your data.",
+    "short": {
+      "title": "The Short Version",
+      "body": "We don't collect any data. Everything stays on your device."
+    },
+    "stored": {
+      "title": "What Data Is Stored",
+      "intro": "The App stores the following data locally on your iPhone:",
+      "items": [
+        "Habit configurations (names, units, targets, colors)",
+        "Daily log entries (date, value, optional notes)",
+        "App preferences (theme, onboarding status, consent records)"
+      ],
+      "footer": "This data is stored using iOS on-device storage (UserDefaults). It never leaves your device."
+    },
+    "notCollect": {
+      "title": "What We Don't Collect",
+      "items": [
+        "No personal information (name, email, phone, location)",
+        "No usage analytics or crash reports",
+        "No advertising identifiers",
+        "No cookies or tracking pixels",
+        "No data is transmitted to any server"
+      ]
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "body": "None. The App contains no third-party SDKs, analytics tools, ad networks, or cloud services."
+    },
+    "rights": {
+      "title": "Your Rights (GDPR)",
+      "intro": "Under the General Data Protection Regulation, you have the right to:",
+      "access": "<b>Access</b> your data: visible directly in the app at any time",
+      "export": "<b>Export</b> your data: via Settings, Data Management, Export (JSON or CSV)",
+      "delete": "<b>Delete</b> your data: via Settings, Data Management, Clear All Data",
+      "rectify": "<b>Rectify</b> your data: edit any entry by tapping it in the app",
+      "footer": "Since all data is stored exclusively on your device, exercising these rights requires no request to us, you have full control."
+    },
+    "retention": {
+      "title": "Data Retention",
+      "body": "Your data persists on your device until you delete it within the app or uninstall the app. Uninstalling permanently removes all data."
+    },
+    "children": {
+      "title": "Children's Privacy",
+      "body": "The App does not knowingly collect data from children under 16. Since no personal information is collected from any user, the App is compliant with COPPA and GDPR age requirements."
+    },
+    "changes": {
+      "title": "Changes to This Policy",
+      "body": "If we update this policy, we will post the revised version on this page with an updated date."
+    },
+    "contact": {
+      "title": "Contact",
+      "body": "For privacy questions or concerns:"
+    }
+  },
+  "Terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: April 3, 2026",
+    "intro": "Welcome to MyGrowth (\"the App\"). By downloading or using the App, you agree to these terms.",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "body": "By accessing or using MyGrowth, you agree to be bound by these Terms of Use. If you do not agree, do not use the App."
+    },
+    "description": {
+      "title": "Description of Service",
+      "body": "MyGrowth is a personal habit-tracking application for iOS. It allows you to log daily activities, visualize your progress through heatmap grids and charts, and manage your personal data, all stored locally on your device."
+    },
+    "responsibilities": {
+      "title": "User Responsibilities",
+      "items": [
+        "You are responsible for all data you enter into the App",
+        "You are responsible for maintaining backups of your data using the export feature",
+        "You must not use the App for any unlawful purpose",
+        "You must not attempt to reverse-engineer, decompile, or tamper with the App"
+      ]
+    },
+    "dataPrivacy": {
+      "title": "Data and Privacy",
+      "item1": "All data is stored locally on your device",
+      "item2": "We do not collect, transmit, or have access to any of your data",
+      "item3": "For full details, see our <link>Privacy Policy</link>"
+    },
+    "ip": {
+      "title": "Intellectual Property",
+      "body": "MyGrowth, including its design, code, and visual assets, is the intellectual property of its developer. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes."
+    },
+    "iap": {
+      "title": "In-App Purchases",
+      "body": "The App may offer optional premium features via in-app purchases. All purchases are processed by Apple through the App Store and are subject to Apple's terms and conditions. Refunds are handled by Apple per their refund policy."
+    },
+    "warranties": {
+      "title": "Disclaimer of Warranties",
+      "body": "The App is provided \"as is\" without warranties of any kind, express or implied. We do not guarantee that the App will be error-free, uninterrupted, or free of harmful components."
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "body": "To the maximum extent permitted by law, the developer shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App, including but not limited to data loss."
+    },
+    "dataLoss": {
+      "title": "Data Loss",
+      "body": "Since all data is stored locally on your device, we are not responsible for data loss due to device failure, iOS updates, app deletion, or any other cause. We recommend regularly exporting your data using the built-in export feature."
+    },
+    "modifications": {
+      "title": "Modifications",
+      "body": "We reserve the right to update these Terms at any time. Continued use of the App after changes constitutes acceptance of the new Terms. The latest version will always be available at this page."
+    },
+    "termination": {
+      "title": "Termination",
+      "body": "We may terminate or suspend your access to the App at any time, without notice, for conduct that we believe violates these Terms or is harmful to other users or the App."
+    },
+    "governingLaw": {
+      "title": "Governing Law",
+      "body": "These Terms are governed by the laws of Denmark, without regard to conflict of law principles."
+    },
+    "contact": {
+      "title": "Contact",
+      "body": "For questions about these Terms:"
+    }
+  },
+  "Picker": {
+    "label": "Change language"
+  }
+}
