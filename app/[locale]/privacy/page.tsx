@@ -114,10 +114,10 @@ function PrivacyContent() {
               <p className="text-mls-muted leading-relaxed">
                 {t("contact.body")}{" "}
                 <a
-                  href="mailto:support@myhabitstats.com"
+                  href="mailto:support@myellelab.com"
                   className="text-mls-green hover:underline"
                 >
-                  support@myhabitstats.com
+                  support@myellelab.com
                 </a>
               </p>
             </Section>
