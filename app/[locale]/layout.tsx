@@ -43,9 +43,9 @@ export async function generateMetadata({
     de: "de_DE",
   };
 
-  // Absolute URL to a JPG social card (1200x630). Absolute + JPG, not WebP,
+  // Absolute URL to a PNG social card (1200x666). Absolute + PNG, not WebP,
   // so finicky scrapers like WhatsApp reliably render a preview.
-  const ogImage = `${SITE_URL}/og-image.jpg`;
+  const ogImage = `${SITE_URL}/og-image.png`;
 
   return {
     metadataBase: new URL(SITE_URL),
@@ -67,7 +67,8 @@ export async function generateMetadata({
         {
           url: ogImage,
           width: 1200,
-          height: 630,
+          height: 666,
+          type: "image/png",
           alt: "MyGrowth",
         },
       ],
