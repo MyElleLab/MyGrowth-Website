@@ -8,7 +8,8 @@ export default function AppPreview() {
       <div className="mx-auto max-w-6xl">
         <div className="text-center mb-8 space-y-3">
           <h2 className="text-3xl md:text-4xl font-bold text-mls-text">
-            {t("title")}
+            <span className="block">{t("titleLine1")}</span>
+            <span className="block">{t("titleLine2")}</span>
           </h2>
           <p className="text-mls-muted max-w-xl mx-auto">
             {t("subtitle")}

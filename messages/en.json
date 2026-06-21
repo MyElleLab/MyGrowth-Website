@@ -107,8 +107,9 @@
     }
   },
   "AppPreview": {
-    "title": "You become what you repeatedly do. MyGrowth makes that visible.",
-    "subtitle": "Clean, focused, no-nonsense. Every pixel earns its place.",
+    "titleLine1": "You become what you repeatedly do.",
+    "titleLine2": "MyGrowth makes that visible.",
+    "subtitle": "Your daily consistency, turned into progress you can see.",
     "promoAlt": "MyGrowth on iPhone"
   },
   "Footer": {

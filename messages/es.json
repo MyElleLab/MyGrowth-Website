@@ -107,8 +107,9 @@
     }
   },
   "AppPreview": {
-    "title": "Te conviertes en lo que haces de forma repetida. MyGrowth lo hace visible.",
-    "subtitle": "Limpio, enfocado, sin rodeos. Cada píxel se gana su lugar.",
+    "titleLine1": "Te conviertes en lo que haces de forma repetida.",
+    "titleLine2": "MyGrowth lo hace visible.",
+    "subtitle": "Tu constancia diaria, convertida en un progreso que puedes ver.",
     "promoAlt": "MyGrowth en iPhone"
   },
   "Footer": {
