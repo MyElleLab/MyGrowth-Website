@@ -3,7 +3,7 @@ import { useTranslations } from "next-intl";
 const stats = [
   { value: "9", key: "suggestedHabits" },
   { value: "∞", key: "colors" },
-  { value: "25+", key: "languages" },
+  { value: "25", key: "languages" },
   { value: "100%", key: "private" },
 ] as const;
 

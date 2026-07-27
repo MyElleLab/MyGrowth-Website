@@ -4,8 +4,9 @@ import { useTranslations } from "next-intl";
 const languages = [
   "English", "Italiano", "Dansk", "Deutsch", "Français", "Español",
   "Português", "日本語", "한국어", "中文", "Türkçe", "Русский",
-  "العربية", "हिन्दी", "Bahasa Indonesia", "ไทย", "Tiếng Việt",
+  "हिन्दी", "Bahasa Indonesia", "ไทย", "Tiếng Việt",
   "Ελληνικά", "Polski", "Українська", "Română", "Bahasa Melayu", "Shqip",
+  "বাংলা", "नेपाली", "Filipino",
 ];
 
 export default function LanguageGrid() {
