@@ -12,7 +12,7 @@ export default function Footer() {
           {/* Logo */}
           <div className="flex items-center gap-2">
             <Image
-              src="/MyGrowth_AppIcon_1024.png"
+              src="/app-icon.png"
               alt={tc("iconAlt")}
               width={24}
               height={24}

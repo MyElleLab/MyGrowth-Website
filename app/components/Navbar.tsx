@@ -22,7 +22,7 @@ export default function Navbar() {
       <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 group">
           <Image
-            src="/MyGrowth_AppIcon_1024.png"
+            src="/app-icon.png"
             alt="MyGrowth icon"
             width={32}
             height={32}
